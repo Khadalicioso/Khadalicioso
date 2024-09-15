@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel Enrique aka Khadalicioso</h1>
 <h2 align="center">Frontend Developer, Aspiring Backend Developer</h2>
-<h3 align="center">A seasoned frontend developer known for crafting intuitive, visually appealing user interfaces. My passion for code extends beyond the client-side, as I'm currently sharpening my skills in backend development. With a keen eye for detail and a drive for innovation, I'm dedicated to delivering exceptional digital experiences.</p></h3>
+<h3 align="center"><p>Skilled frontend developer with a proven track record of creating user-centric, visually engaging web applications. My expertise in frontend development, combined with my ongoing pursuit of backend knowledge, allows me to deliver comprehensive solutions that exceed expectations. I am committed to staying up-to-date with industry trends and leveraging innovative technologies to drive exceptional digital experiences.</p></h3>
 
 # 💻 Tech Stack I Use:
-<h1 align="center">
+<h1 align="left">
 
 <img src="./assets/html.svg" alt="bootstrap" width="50" height="50"/>
 <img src="./assets/css.svg" alt="bootstrap" width="50" height="50"/>
