@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Miguel Enrique aka Khadalicioso</h1>
+<h2 align="center">Frontend Developer, Aspiring Backend Developer</h2>
+<h3 align="center">Greetings. A seasoned frontend developer known for crafting intuitive, visually appealing user interfaces. My passion for code extends beyond the client-side, as I'm currently sharpening my skills in backend development. With a keen eye for detail and a drive for innovation, I'm dedicated to delivering exceptional digital experiences.</p></h3>
 
-<!--
-**Khadalicioso/Khadalicioso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack I Use:
+![HTML5](./assets/html.svg)
+![CSS3](./assets/css.svg)
+![Bootstrap](./assets/bootstrap.svg)
+![TailwindCSS](./assets/tailwind.svg)
+![JavaScript](./assets/javascript.svg)
+![React](./assets/react.svg)
