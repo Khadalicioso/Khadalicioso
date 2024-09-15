@@ -4,10 +4,10 @@
 
 # 💻 Tech Stack I Use:
 <h1 align="left">
-![HTML5](./assets/html.svg)
-![CSS3](./assets/css.svg)
-![Bootstrap](./assets/bootstrap.svg)
-![TailwindCSS](./assets/tailwind.svg)
-![JavaScript](./assets/javascript.svg)
-![React](./assets/react.svg)
+<img src="./assets/html.svg" alt="bootstrap" width="50" height="50"/>
+<img src="./assets/css.svg" alt="bootstrap" width="50" height="50"/>
+<img src="./assets/bootstrap.svg" alt="bootstrap" width="50" height="50"/>
+<img src="./assets/tailwind.svg" alt="bootstrap" width="50" height="50"/>
+<img src="./assets/javascript.svg" alt="bootstrap" width="50" height="50"/>
+<img src="./assets/react.svg" alt="bootstrap" width="50" height="50"/>
 </h1>
