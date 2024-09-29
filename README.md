@@ -1,5 +1,4 @@
-# 💫 About Me:
-## Hi 👋, I'm Miguel Enrique aka Khadalicioso
+# Hi 👋, I'm Miguel Enrique aka Khadalicioso
 
 ## Frontend Developer, Aspiring Backend Developer
 
