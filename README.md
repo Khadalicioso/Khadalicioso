@@ -4,7 +4,7 @@
 ## **<div align="center">Frontend Developer, Aspiring Backend Developer</div>**  
   
 
-###### **<div align="center">I specialize in creating visually appealing and user-friendly interfaces that seamlessly blend aesthetics and functionality. Currently, I'm expanding my skills by delving into Backend development, aiming to create comprehensive web solutions from start to finish. Let's build something amazing together.</div>**  
+###### **<div align="center">I'm a skilled frontend developer with a passion for crafting intuitive and visually appealing user interfaces. I'm also eager to expand my skill set into backend development, building the robust foundations that power exceptional web applications.</div>**
   
 
 <br/>  
