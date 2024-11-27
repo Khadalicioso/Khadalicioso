@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm a skilled frontend developer, passionate about creating seamless user experiences. I'm excited to expand my expertise into backend development to deliver comprehensive web solutions.</p>
+<p align="center">I'm a skilled frontend developer with a passion for crafting intuitive and visually appealing user interfaces. I'm also eager to expand my skill set into backend development, building the robust foundations that power exceptional web applications.</p>
 
 ###
 
