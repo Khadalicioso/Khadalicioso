@@ -2,15 +2,16 @@
 
 ###
 
-<h3 align="center">I'm a skilled frontend developer with a passion for crafting intuitive and visually appealing user interfaces. I'm also eager to expand my skill set into backend development, building the robust foundations that power exceptional web applications.</h3>
+<h3 align="center">A passionate frontend developer and aspiring backend developer.</h3>
 
 ###
 
-- 👨‍💻 All of my projects are available at [https://khadalicioso.github.io/miguelenriquedasalla/](https://khadalicioso.github.io/miguelenriquedasalla/)
+- 👨‍💻 All of my projects are available at [https://khadalicioso.github.io/miguelenriquedasalla/](https://khadalicioso.github.io/miguelenriquedasalla/) 
 
 ###
 
-<div align="center">
+# 💻 Skills and Technologies
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -51,9 +52,11 @@
 ###
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=react&hide_border=false)
+
+###
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khadalicioso&limit=5&theme=dark&combine_all_yearly_contributions=true)
