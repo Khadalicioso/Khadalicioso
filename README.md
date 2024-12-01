@@ -2,11 +2,7 @@
 
 ###
 
-<h3 align="center">Frontend Developer, Aspiring Backend Developer</h3>
-
-###
-
-<p align="center">I'm a skilled frontend developer with a passion for crafting intuitive and visually appealing user interfaces. I'm also eager to expand my skill set into backend development, building the robust foundations that power exceptional web applications.</p>
+<h3 align="center">I'm a skilled frontend developer with a passion for crafting intuitive and visually appealing user interfaces. I'm also eager to expand my skill set into backend development, building the robust foundations that power exceptional web applications.</h3>
 
 ###
 
@@ -53,3 +49,11 @@
 </div>
 
 ###
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=khadalicioso&limit=5&theme=dark&combine_all_yearly_contributions=true)
