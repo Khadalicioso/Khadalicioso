@@ -6,54 +6,64 @@
 
 ###
 
-- 👨‍💻 All of my projects are available at [https://khadalicioso.github.io/miguelenriquedasalla/](https://khadalicioso.github.io/miguelenriquedasalla/) 
+- 👨‍💻 All of my projects are available at [https://khadalicioso.github.io/miguelenriquedasalla/](https://khadalicioso.github.io/miguelenriquedasalla/)
 
 ###
 
 # 💻 Skills and Technologies
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="./assets/html.png" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="./assets/css.png" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="./assets/js.png" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="./assets/bootstrap.png" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="./assets/tailwind.png" height="40" alt="tailwind css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="./assets/react.png" height="40" alt="react js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img src="./assets/reactquery.png" height="40" alt="react query logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="./assets/vue.png" height="40" alt="vue js logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img src="./assets/ts.png" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="./assets/jquery.png" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="./assets/next.png" height="40" alt="next js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="./assets/node.png" height="40" alt="node js logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="./assets/csharp.png" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img src="./assets/php.png" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img src="./assets/laravel.png" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="./assets/mysql.png" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="./assets/sqlserver.png" height="40" alt="sql server logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="./assets/mongodb.png" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="./assets/firebase.png" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="./assets/dotnet.png" height="40" alt="dotnet core logo"  />
+  <img width="12" />
+  <img src="./assets/mui.png" height="40" alt="material ui logo"  />
+  <img width="12" />
+  <img src="./assets/git.png" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="./assets/framer.png" height="40" alt="framer motion logo"  />
 </div>
 
 ###
 
 # 📊 GitHub Stats:
+
 [![](https://visitcount.itsvg.in/api?id=khadalicioso&icon=0&color=1)](https://visitcount.itsvg.in)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -62,4 +72,5 @@
 ###
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=khadalicioso&limit=5&theme=dark&combine_all_yearly_contributions=true)
