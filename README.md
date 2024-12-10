@@ -13,6 +13,7 @@
 # 💻 Skills and Technologies
 
 <div align="left">
+  <img width="15" />
   <img src="./assets/html.png" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="./assets/css.png" height="50" alt="css3 logo"  />
@@ -58,7 +59,6 @@
   <img src="./assets/git.png" height="50" alt="git logo"  />
   <img width="15" />
   <img src="./assets/framer.png" height="50" alt="framer motion logo"  />
-  <img width="15" />
 </div>
 
 ###
