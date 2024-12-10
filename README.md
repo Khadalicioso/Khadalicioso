@@ -58,6 +58,7 @@
   <img src="./assets/git.png" height="50" alt="git logo"  />
   <img width="15" />
   <img src="./assets/framer.png" height="50" alt="framer motion logo"  />
+  <img width="15" />
 </div>
 
 ###
