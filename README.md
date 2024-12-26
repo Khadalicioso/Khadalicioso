@@ -1,76 +1,63 @@
-<h1 align="center">Hi 👋, I'm Miguel Enrique Dasalla</h1>
-
-###
-
-<h3 align="center">A passionate frontend developer and aspiring backend developer.</h3>
-
-###
-
-- 👨‍💻 All of my projects are available at [https://khadalicioso.github.io/](https://khadalicioso.github.io/)
-
-###
-
-# 💻 Skills and Technologies
-
 <div align="center">
-  <img src="./assets/html.png" height="60" alt="html5 logo"  />
-  <img width="20" />
-  <img src="./assets/css.png" height="60" alt="css3 logo"  />
-  <img width="20" />
-  <img src="./assets/js.png" height="60" alt="javascript logo"  />
-  <img width="20" />
-  <img src="./assets/bootstrap.png" height="60" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="./assets/tailwind.png" height="60" alt="tailwind css logo"  />
-  <img width="20" />
-  <img src="./assets/react.png" height="60" alt="react js logo"  />
-  <img width="20" />
-  <img src="./assets/reactquery.png" height="60" alt="react query logo"  />
-  <img width="20" />
-  <img src="./assets/vue.png" height="60" alt="vue js logo"  />
-  <img width="20" />
-  <img src="./assets/ts.png" height="60" alt="typescript logo"  />
-  <img width="20" />
-  <img src="./assets/jquery.png" height="60" alt="jquery logo"  />
-  <img width="20" />
-  <img src="./assets/next.png" height="60" alt="next js logo"  />
-  <img width="20" />
-  <img src="./assets/node.png" height="60" alt="node js logo"  />
-  <img width="20" />
-  <img src="./assets/csharp.png" height="60" alt="csharp logo"  />
-  <img width="20" />
-  <img src="./assets/php.png" height="60" alt="php logo"  />
-  <img width="20" />
-  <img src="./assets/laravel.png" height="60" alt="laravel logo"  />
-  <img width="20" />
-  <img src="./assets/mysql.png" height="60" alt="mysql logo"  />
-  <img width="20" />
-  <img src="./assets/sqlserver.png" height="60" alt="sql server logo"  />
-  <img width="20" />
-  <img src="./assets/mongodb.png" height="60" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="./assets/firebase.png" height="60" alt="firebase logo"  />
-  <img width="20" />
-  <img src="./assets/dotnet.png" height="60" alt="dotnet core logo"  />
-  <img width="20" />
-  <img src="./assets/mui.png" height="60" alt="material ui logo"  />
-  <img width="20" />
-  <img src="./assets/git.png" height="60" alt="git logo"  />
-  <img width="20" />
-  <img src="./assets/framer.png" height="60" alt="framer motion logo"  />
-  <img width="20" />
+  <h1>Hi there! I'm Miguel Enrique Dasalla 👋</h1>
+  <h3>Full-Stack Developer | Programmer | Web Developer</h3>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://miguelenriquedasalla.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://khadalicioso.github.io/)
+
 </div>
 
-###
+## 🛠️ Tech Stack
 
-# 📊 GitHub Stats:
+<div align="center">
+  
+  ### Frontend
+  <img src="./assets/html.png" height="50" alt="html5" title="HTML5" />&nbsp;
+  <img src="./assets/css.png" height="50" alt="css3" title="CSS3" />&nbsp;
+  <img src="./assets/js.png" height="50" alt="javascript" title="JavaScript" />&nbsp;
+  <img src="./assets/ts.png" height="50" alt="typescript" title="TypeScript" />&nbsp;
+  <img src="./assets/react.png" height="50" alt="react" title="React.js" />&nbsp;
+  <img src="./assets/next.png" height="50" alt="next" title="Next.js" />&nbsp;
+  <img src="./assets/vue.png" height="50" alt="vue" title="Vue.js" />&nbsp;
+  <img src="./assets/nuxt.png" height="50" alt="nuxt" title="Nuxt.js" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=react&hide_border=false)
+### Styling & UI
 
-###
+<img src="./assets/tailwind.png" height="50" alt="tailwind" title="Tailwind CSS" />&nbsp;
+<img src="./assets/bootstrap.png" height="50" alt="bootstrap" title="Bootstrap" />&nbsp;
+<img src="./assets/mui.png" height="50" alt="mui" title="Material UI" />&nbsp;
+<img src="./assets/framer.png" height="50" alt="framer" title="Framer Motion" />
 
-### 🔝 Top Contributed Repo
+### Backend & Databases
 
-![](https://github-contributor-stats.vercel.app/api?username=khadalicioso&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="./assets/node.png" height="50" alt="nodejs" title="Node.js" />&nbsp;
+<img src="./assets/php.png" height="50" alt="php" title="PHP" />&nbsp;
+<img src="./assets/laravel.png" height="50" alt="laravel" title="Laravel" />&nbsp;
+<img src="./assets/csharp.png" height="50" alt="csharp" title="C#" />&nbsp;
+<img src="./assets/dotnet.png" height="50" alt="dotnet" title=".NET Core" />
+
+### Databases & Tools
+
+<img src="./assets/mysql.png" height="50" alt="mysql" title="MySQL" />&nbsp;
+<img src="./assets/sqlserver.png" height="50" alt="sqlserver" title="SQL Server" />&nbsp;
+<img src="./assets/mongodb.png" height="50" alt="mongodb" title="MongoDB" />&nbsp;
+<img src="./assets/firebase.png" height="50" alt="firebase" title="Firebase" />&nbsp;
+<img src="./assets/git.png" height="50" alt="git" title="Git" />
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=khadalicioso&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+  
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=react&hide_border=true)
+
+### 🔝 Top Contributed Repositories
+
+![Contributions](https://github-contributor-stats.vercel.app/api?username=khadalicioso&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
