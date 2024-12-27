@@ -50,7 +50,7 @@
 
 <div align="center">
   
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)(https://github.com/Khadalicioso)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khadalicioso&show_icons=true&theme=radical)](https://github.com/Khadalicioso)
 
