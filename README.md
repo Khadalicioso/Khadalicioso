@@ -54,7 +54,7 @@
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false)
   
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=react&hide_border=true)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=react&hide_border=false)
 
 ### 🔝 Top Contributed Repositories
 
