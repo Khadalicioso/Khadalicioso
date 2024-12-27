@@ -54,7 +54,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadalicioso&show_icons=true&theme=highcontrast&locale=en)](https://github.com/Khadalicioso)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=highcontrast](https://github.com/Khadalicioso)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=highcontrast])
 
 ### 🔝 Top Contributed Repositories
 
