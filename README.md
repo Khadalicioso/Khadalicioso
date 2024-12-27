@@ -28,7 +28,7 @@
 <img src="./assets/mui.png" height="50" alt="mui" title="Material UI" />&nbsp;
 <img src="./assets/framer.png" height="50" alt="framer" title="Framer Motion" />
 
-### Backend & Databases
+### Backend
 
 <img src="./assets/node.png" height="50" alt="nodejs" title="Node.js" />&nbsp;
 <img src="./assets/php.png" height="50" alt="php" title="PHP" />&nbsp;
