@@ -50,11 +50,11 @@
 
 <div align="center">
   
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=khadalicioso&theme=react&hide_border=false&include_all_commits=true&count_private=false)
-  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=react&hide_border=false)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)(https://github.com/Khadalicioso)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khadalicioso&show_icons=true&theme=radical)](https://github.com/Khadalicioso)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khadalicioso&theme=radical)](https://github.com/Khadalicioso)
 
 ### 🔝 Top Contributed Repositories
 
