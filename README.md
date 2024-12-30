@@ -10,30 +10,32 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+  <h4>MERN Stack</h4>
+  <img src="./assets/mongodb.png" height="50" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="./assets/node.png" height="50" alt="Node JS" title="Node JS" />&nbsp;
+  <img src="./assets/express.png" height="50" alt="Express JS" title="Express JS" />&nbsp;
+  <img src="./assets/react.png" height="50" alt="React JS" title="React JS" />&nbsp;
+
+  <h4>WAMP Stack</h4>
+  <img src="./assets/mysql.png" height="50" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="./assets/php.png" height="50" alt="PHP" title="PHP" />&nbsp;
+
+  <h4>Other Technologies and Tools</h4>
   <img src="./assets/html.png" height="50" alt="HTML5" title="HTML5" />&nbsp;
   <img src="./assets/css.png" height="50" alt="CSS3" title="CSS3" />&nbsp;
   <img src="./assets/js.png" height="50" alt="JavaScript" title="JavaScript" />&nbsp;
   <img src="./assets/ts.png" height="50" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="./assets/react.png" height="50" alt="React JS" title="React JS" />&nbsp;
-  <img src="./assets/reactquery.png" height="50" alt="React Query" title="React Query" />&nbsp;
-  <img src="./assets/next.png" height="50" alt="Next JS" title="Next JS" />&nbsp;
-  <img src="./assets/vue.png" height="50" alt="Vue JS" title="Vue JS" />&nbsp;
-  <img src="./assets/nuxt.png" height="50" alt="Nuxt JS" title="Nuxt JS" />&nbsp;
-  <img src="./assets/tailwind.png" height="50" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
   <img src="./assets/bootstrap.png" height="50" alt="Bootstrap" title="Bootstrap" />&nbsp;
+  <img src="./assets/tailwind.png" height="50" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img src="./assets/csharp.png" height="50" alt="C#" title="C#" />&nbsp;
+  <img src="./assets/dotnet.png" height="50" alt=".Net" title=".NET Core" />&nbsp;
+  <img src="./assets/sqlserver.png" height="50" alt="SQL Server" title="SQL Server" />&nbsp;
+  <img src="./assets/firebase.png" height="50" alt="Firebase" title="Firebase" />&nbsp;
   <img src="./assets/mui.png" height="50" alt="Material UI" title="Material UI" />&nbsp;
   <img src="./assets/framer.png" height="50" alt="Framer Motion" title="Framer Motion" />&nbsp;
-  <img src="./assets/node.png" height="50" alt="Node JS" title="Node JS" />&nbsp;
-  <img src="./assets/express.png" height="50" alt="Express JS" title="Express JS" />&nbsp;
-  <img src="./assets/php.png" height="50" alt="PHP" title="PHP" />&nbsp;
-  <img src="./assets/laravel.png" height="50" alt="Laravel" title="Laravel" />&nbsp;
-  <img src="./assets/csharp.png" height="50" alt="C#" title="C#" />&nbsp;
-  <img src="./assets/dotnet.png" height="50" alt=".Net" title=".NET Core" />
-  <img src="./assets/mysql.png" height="50" alt="MySQL" title="MySQL" />&nbsp;
-  <img src="./assets/sqlserver.png" height="50" alt="SQL Server" title="SQL Server" />&nbsp;
-  <img src="./assets/mongodb.png" height="50" alt="MongoDB" title="MongoDB" />&nbsp;
-  <img src="./assets/firebase.png" height="50" alt="Firebase" title="Firebase" />&nbsp;
-  <img src="./assets/git.png" height="50" alt="Git" title="Git" />
+  <img src="./assets/git.png" height="50" alt="Git" title="Git" />&nbsp;
+  
 </div>
 
 ## 📊 GitHub Stats
