@@ -13,9 +13,9 @@
 
   <h4>MERN Stack</h4>
   <img src="./assets/mongodb.png" height="50" alt="MongoDB" title="MongoDB" />&nbsp;
+ <img src="./assets/express.png" height="50" alt="Express JS" title="Express JS" />&nbsp;
+ <img src="./assets/react.png" height="50" alt="React JS" title="React JS" />&nbsp;
   <img src="./assets/node.png" height="50" alt="Node JS" title="Node JS" />&nbsp;
-  <img src="./assets/express.png" height="50" alt="Express JS" title="Express JS" />&nbsp;
-  <img src="./assets/react.png" height="50" alt="React JS" title="React JS" />&nbsp;
 
   <h4>WAMP Stack</h4>
   <img src="./assets/mysql.png" height="50" alt="MySQL" title="MySQL" />&nbsp;
