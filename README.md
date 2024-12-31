@@ -37,21 +37,3 @@
   <img src="./assets/git.png" height="50" alt="Git" title="Git" />&nbsp;
   
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadalicioso&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=khadalicioso&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadalicioso&theme=github_dark_dimmed&hide_border=false)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=khadalicioso&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=khadalicioso&icon=2&color=11)](https://visitcount.itsvg.in)
-
-</div>
