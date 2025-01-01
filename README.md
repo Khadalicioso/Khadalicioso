@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! I'm Miguel Enrique Dasalla 👋</h1>
-  <h3>Full-Stack Developer | Programmer | Web Developer</h3>
+  <h3>Web Developer</h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://miguelenriquedasalla.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://khadalicioso.github.io/)
